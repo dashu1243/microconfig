@@ -7,7 +7,7 @@ spring:
  application:
    name: microcloud-privider-product
 # security:
-#   user:
+#   user:撒旦发射点就发生
 #     name: admin  # 认证用户名
 #     password: enjoy  # 认证密码
 #     roles:
